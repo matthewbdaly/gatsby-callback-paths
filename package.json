@@ -15,7 +15,11 @@
     "gatsbyjs",
     "path"
   ],
-  "author": "Matthew Daly",
+  "author": {
+    "name": "Matthew Daly",
+    "email": "matthew@matthewdaly.co.uk",
+    "url": "https://matthewdaly.co.uk"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/matthewbdaly/gatsby-callback-paths/issues"
